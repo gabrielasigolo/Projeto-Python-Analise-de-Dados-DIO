@@ -2,11 +2,11 @@
 Projeto desenvolvido durante o bootcamp Tech Unimed da DIO com a especialista Fernanda Santos.
 
 Nesse projeto foi abordado alguns conceitos como:
-<li> <ol> Python Básico </ol>
-     <ol> Estrutura de Dados </ol>
-     <ol> Introdução a biblioteca Pandas </ol>
-     <ol> Trabalhando com planilhas do Excel </ol>
-     <ol> Trabalhando com datas </ol>
-     <ol> Visualização de dados </ol>
-     <ol> Análise Exploratória </ol>
-<li>
+<ol> <li> Python Básico </li>
+     <li> Estrutura de Dados </li>
+     <li> Introdução a biblioteca Pandas </li>
+     <li> Trabalhando com planilhas do Excel </li>
+     <li> Trabalhando com datas </li>
+     <li> Visualização de dados </li>
+     <li> Análise Exploratória </li>
+<ol>
